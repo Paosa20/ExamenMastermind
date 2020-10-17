@@ -1,0 +1,9 @@
+C:\Users\paosa\source\repos\ExamenComponentes\bin\Debug\ExamenComponentes.dll
+C:\Users\paosa\source\repos\ExamenComponentes\bin\Debug\ExamenComponentes.pdb
+C:\Users\paosa\source\repos\ExamenComponentes\obj\Debug\ExamenComponentes.csprojAssemblyReference.cache
+C:\Users\paosa\source\repos\ExamenComponentes\obj\Debug\ExamenComponentes.UserControl1.resources
+C:\Users\paosa\source\repos\ExamenComponentes\obj\Debug\ExamenComponentes.csproj.GenerateResource.cache
+C:\Users\paosa\source\repos\ExamenComponentes\obj\Debug\ExamenComponentes.csproj.CoreCompileInputs.cache
+C:\Users\paosa\source\repos\ExamenComponentes\obj\Debug\ExamenComponentes.dll
+C:\Users\paosa\source\repos\ExamenComponentes\obj\Debug\ExamenComponentes.pdb
+C:\Users\paosa\source\repos\ExamenComponentes\obj\Debug\ExamenComponentes.UserControl2.resources
